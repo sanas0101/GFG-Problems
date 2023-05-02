@@ -1,2 +1,2 @@
-# Maximize-Toys
-GFG problem
+
+
